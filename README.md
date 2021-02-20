@@ -58,6 +58,6 @@ const hk_stacks = stack => {
 <p style="display: block; margin-top: 0px; margin-bottom: 12px" > </p>
 
 - [👶🏼 주니어 개발자의 블로그](https://hankyeolk.github.io) <br />
-- [📖 개인 위키](https://www.notion.so/ddovblek/Javascript-Do-Something-d8d913babe0647e3ba507b05dbf66186)
+- 📖 개인 위키 - 수정중
 
 <p style="display: block; margin-top: 0px;margin-bottom: 40px" > </p>
