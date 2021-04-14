@@ -32,13 +32,10 @@ const hk_stacks = stack => {
       return `NPM, Webpack, Babel, ESLint, Jest`;
 
     case Front_End:
-      return `React, Vue, Redux, Styled-Components`;
+      return `React, Redux, Styled-Components, TailwindCSS`;
 
     case Back_End:
-      return `Node.js, Express.js`;
-
-    case Database:
-      return `MySQL, Sequelize, MongoDB, Mongoose`;
+      return `NodeJS, ExpressJS, NestJS, TypeORM, Sequelize, MySQL, Postgres`;
 
     case Deploy:
       return `EC2, S3, RDS, Route53`;
