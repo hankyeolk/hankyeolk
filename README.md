@@ -17,32 +17,7 @@
 <p style="display: block; margin-top: 0px;margin-bottom: 40px" > </p>
 
 ### 저는 이렇게 개발하고 있습니다.
-
-<p style="display: block; margin-top: 0px; margin-bottom: 12px" > </p>
-
-```js
-const hk_stacks = stack => {
-  switch (stack) {
-    case 개발_언어:
-      return `Javascript, Typescript`;
-
-    case 개발_환경:
-      return `NPM, Webpack, Babel, ESLint, Jest`;
-
-    case Front_End:
-      return `React, Redux, Styled-Components, TailwindCSS`;
-
-    case Back_End:
-      return `NodeJS, ExpressJS, NestJS, TypeORM, Sequelize, MySQL, Postgres`;
-
-    case Deploy:
-      return `EC2, S3, RDS, Route53`;
-
-    default:
-      return `Github, Notion, Slack, Sketch, Zeplin`;
-  }
-};
-```
+수정중
 
 <p style="display: block; margin-top: 0px; margin-bottom: 12px" > </p>
 
